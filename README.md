@@ -1,2 +1,2 @@
 # HideNavbaronScrollDown
-https://aem-siddique.github.io/HideNavbaronScrollDown/
+https://aem-siddique.github.io/HideNavbaronScrollDown/ 
